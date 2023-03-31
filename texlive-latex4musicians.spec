@@ -1,6 +1,6 @@
 Name:		texlive-latex4musicians
 Version:	49759
-Release:	1
+Release:	2
 Summary:	A guide for combining LaTeX and music
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex4musicians
