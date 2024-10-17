@@ -3,7 +3,7 @@ Version:	49759
 Release:	2
 Summary:	A guide for combining LaTeX and music
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex4musicians
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latex4musicians
 License:	fdl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex4musicians.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex4musicians.doc.r%{version}.tar.xz
